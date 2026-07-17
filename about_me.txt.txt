@@ -1,0 +1,3 @@
+I am Stercy.
+I'm a Computer Science student at the university of CATUC Bamenda.
+This repository is created for my software Engineering assignment.
